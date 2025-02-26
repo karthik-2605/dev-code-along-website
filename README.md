@@ -1,7 +1,7 @@
 # ********** What I Learned While Building This Website **********
 
 # 1. HTML Fundamentals
-- Gained an understanding of basic HTML structure, including how to use elements like <div>, <h1>, <p>, and others.
+- Gained an understanding of basic HTML structure, including how to use elements like div,h,p and others.
 - Learned how to organize content into meaningful sections such as Home, Tech, and Footer.
 - Explored semantic HTML for better readability and SEO.
 
